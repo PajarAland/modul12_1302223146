@@ -1,0 +1,10 @@
+D:\modul12_1302223146\modul12_1302223146\bin\Debug\modul12_1302223146.exe.config
+D:\modul12_1302223146\modul12_1302223146\bin\Debug\modul12_1302223146.exe
+D:\modul12_1302223146\modul12_1302223146\bin\Debug\modul12_1302223146.pdb
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.csproj.AssemblyReference.cache
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.Form1.resources
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.Properties.Resources.resources
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.csproj.GenerateResource.cache
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.csproj.CoreCompileInputs.cache
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.exe
+D:\modul12_1302223146\modul12_1302223146\obj\Debug\modul12_1302223146.pdb
